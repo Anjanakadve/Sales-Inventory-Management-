@@ -1,4 +1,4 @@
-# Mexico-Toy-Sales
+# Sales-Inventory-Manegement
 # Project Overview
 Sales & inventory data for a fictitious toy store chain in Mexico called Maven Toys, including information about products, stores, daily sales transactions, and current inventory levels at each location.
 # sql Queries
