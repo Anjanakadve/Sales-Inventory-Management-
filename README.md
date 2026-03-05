@@ -227,7 +227,19 @@ order by sales_month desc;
  * **Monthly Sales Insights:** Colorbuds dominates as the top-selling product every single month.
  Sales peak in January ($121K) and steadily decline through June, suggesting possible seasonality or stock issues mid-year.
 
+## Sales & Inventory Management - Key Recommendations
 
+## 1. Optimize Art & Crafts Inventory
+Art & Crafts has too much inventory (8,635 units) but sells slowly. Run sales or discounts to clear stock faster.
+
+## 8. Investigate Games Category
+Games have good margins (34.83%) but are underperforming compared to Electronics and Toys. Review pricing strategy or product selection to boost sales velocity.
+
+## 3. Investigate June Sales Collapse
+Colorbuds revenue dropped dramatically in June ($242.17 vs. $104K-$121K in prior months). Investigate inventory stockouts, supply chain issues, or demand shifts. This 75% revenue decline requires immediate attention to prevent further loss.
+
+## 4. Leverage Electronics High-Margin Strategy
+Electronics has the highest profit margin (49.56%) generating $322,252 profit on only 41,588 units. Increase Electronics shelf space, improve visibility, and upsell bundled packages. Even a 10% sales increase would add ~$32K in profit with minimal inventory investment.
 
 
 
